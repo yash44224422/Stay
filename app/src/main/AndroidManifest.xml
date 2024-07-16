@@ -21,7 +21,7 @@
         android:theme="@style/Theme.HouseRentalManagement">
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyAstRLiJWR9LOpxICg2CdXkGFbTZSV41BA" />
+            android:value="" />
         <activity
             android:name=".user.ViewLocation"
             android:exported="true" />
