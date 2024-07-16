@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "802264340838",
+    "firebase_url": "https://home-rental-ec163-default-rtdb.firebaseio.com",
+    "project_id": "home-rental-ec163",
+    "storage_bucket": "home-rental-ec163.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802264340838:android:f99332e390a9cb5b8050a7",
+        "android_client_info": {
+          "package_name": "com.example.houserentalmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802264340838-bhsahbi4svrr5rr7o16kn5b68q3oa5jt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.houserentalmanagement",
+            "certificate_hash": "17ed35cb985c3abfc04fd6ea12031ed35351f2eb"
+          }
+        },
+        {
+          "client_id": "802264340838-jv719k8cms7m1g1va35mf9riojceb5cn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.houserentalmanagement",
+            "certificate_hash": "30d872ed9d91346bd0c77230f1a945d8ac5f7872"
+          }
+        },
+        {
+          "client_id": "802264340838-sg5krl870ljj0bqadbph22g3psu72tn0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCejnLb6HQR_Ho_h4WZaV4JgVh_QLryjmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802264340838-sg5krl870ljj0bqadbph22g3psu72tn0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
