@@ -1,6 +1,8 @@
 # Stay
 The Stay Application, I used Java, XML, and Firebase to enable property owners and renters to manage and browse rental listings efficiently.
-switch to master branch to see code
+
+
+Switch to master branch to see code
 
 
 # Stay App
